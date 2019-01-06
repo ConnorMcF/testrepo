@@ -20,3 +20,5 @@ iOZv9fY/6eMv+lV3zFjtlNUJy8W6HCPgQzcnmb9jD9H/c5CCdDY2w6SWgZUWcPe8
 -----END PGP SIGNATURE-----
 
 More testing.
+
+![B1](https://raw.githubusercontent.com/connormcf/testrepo/master/b1.png)
