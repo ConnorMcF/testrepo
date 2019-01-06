@@ -1,4 +1,5 @@
-```-----BEGIN PGP SIGNED MESSAGE-----
+```
+-----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA256
 
 This is a test message, posted to GitHub.
@@ -17,7 +18,8 @@ iOZv9fY/6eMv+lV3zFjtlNUJy8W6HCPgQzcnmb9jD9H/c5CCdDY2w6SWgZUWcPe8
 4S9/VFvL6tKF+p0sxvJPtsmH5Eoog3ai7qPz1B0QeLjIdkyav0lnYLC72qE4jkG5
 7rgtjInvRX5SyMZ70lRjygDJwGs+oOvigbR3cmj9BBp2YmMqWbc=
 =WDpk
------END PGP SIGNATURE-----```
+-----END PGP SIGNATURE-----
+```
 
 More testing.
 
